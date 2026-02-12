@@ -71,4 +71,4 @@ node server.js
 
 ## License
 
-This project is licensed under the [GNU General Publoic License (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+This project is licensed under the [MIT license](https://opensource.org/license/mit)
