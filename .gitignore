@@ -1,2 +1,5 @@
 tweets.csv
 lee_twitter.csv
+
+node_modules/*
+package-lock.json
