@@ -23,7 +23,7 @@ app.post('/save-tweet', (req, res) => {
   const escapedText = text.replace(/"/g, '""');
 
   fs.appendFileSync(
-    'tweets.csv',
+    'lee_twitter.csv',
     `"${id}","${date}","${escapedText}","${link}"\n`
   );
 
