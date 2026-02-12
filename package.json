@@ -1,0 +1,26 @@
+{
+  "name": "webcrawl",
+  "version": "1.0.0",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Chrome Web Extension](https://img.shields.io/badge/Chrome-Extension-orange)](https://developer.chrome.com/docs/extensions/)",
+  "homepage": "https://github.com/dvdkwak/Xcavator#readme",
+  "bugs": {
+    "url": "https://github.com/dvdkwak/Xcavator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvdkwak/Xcavator.git"
+  },
+  "license": "MIT",
+  "author": "David Kwakernaak",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security"
+  }
+}
