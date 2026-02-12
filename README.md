@@ -1,4 +1,4 @@
-# 🚀 Xcavator
+# 👷‍♂️ Xcavator 🪏
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Chrome Web Extension](https://img.shields.io/badge/Chrome-Extension-orange)](https://developer.chrome.com/docs/extensions/)
