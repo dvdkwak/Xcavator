@@ -1,0 +1,16 @@
+{
+  "name": "Xcavator",
+  "description": "Crawler for X, works for dutch language only! And do not forget to turn on the local API (see Github)",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+   "16": "Xcavator.png",
+   "32": "Xcavator.png",
+   "48": "Xcavator.png",
+   "128": "Xcavator.png"
+ }
+}
