@@ -24,7 +24,7 @@
 1. Clone or download this repository:
 
 ```bash
-git clone https://github.com/yourusername/Xcavator.git
+git clone git@github.com:dvdkwak/Xcavator.git
 ```
 
 1. Open Chrome and go to ```chrome://extensions/```.
